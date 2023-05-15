@@ -63,6 +63,15 @@
 #  border: solid 1px #f00;
 }
 
+.navbar-dark {
+  background-color: #28553A;
+}
 
+}
+
+.quarto-title-block .quarto-title-banner, .quarto-title-block .quarto-title-banner h1, .quarto-title-block .quarto-title-banner h2, .quarto-title-block .quarto-title-banner h3, .quarto-title-block .quarto-title-banner h4, .quarto-title-block .quarto-title-banner h5, .quarto-title-block .quarto-title-banner h6 {
+    color: rgb(33, 32, 32);
+    background: #EEEEEE;
+}
 
 
