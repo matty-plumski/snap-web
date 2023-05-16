@@ -75,8 +75,9 @@
 }
 .navbar-dark .navbar-nav .nav-link.active {
   color: #FFFFFF;
-  text-decoration: line-through;
+  text-transform:capitalize;
   text-shadow: -1px -1px 0 rgba(0,0,0,.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
